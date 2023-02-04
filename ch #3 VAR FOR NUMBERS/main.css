@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    /* background-color: #000428 → #004e92
+    ; */
+
+    background-color:#585b78 ;
+}
+h1 {
+    padding-top: 150px;
+    text-align: center;
+    font-size: 70px;
+    color: rgb(250, 147, 13);
+}
+
+.allah
+
+  {margin-top: 20px;
+    color: aqua; 
+    font-size: 250px;
+     /* border: 12px solid whitesmoke; */
+    border-top: 15px solid rgb(6, 180, 38);
+    border-right:12px solid rgb(39, 211, 249) ;
+    border-left: 12px solid rgb(242, 231, 21);
+    border-bottom: 15px solid rgb(255, 4, 4);
+/* transition */
+
+
+}
