@@ -1,4 +1,4 @@
-alert("Im chapter 6")
+var first= 10 
+document.write("Result")
 
-alert("Hello world")
 
